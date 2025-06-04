@@ -1,5 +1,14 @@
-## PROYECTO EJEMPLO - MARKDOWN 
-Crear el enviroment Opción 1: con VsCode Opción 2: con consola Agregar las siguientes dependencias en requirements.txt fastapi uvicorn pydantic Ejecutar pip install -r requirements.txt En el archivo main.py ´´´bash from fastapi import FastAPI
+## PROYECTO EJEMPLO - MARKDOWN
+Crear el enviroment
+Opción 1: con VsCode
+Opción 2: con consola
+Agregar las siguientes dependencias en requirements.txt
+fastapi
+uvicorn
+pydantic
+Ejecutar
+pip install -r requirements.txt
+En el archivo main.py ´´´bash from fastapi import FastAPI
 
 app = FastAPI()
 
